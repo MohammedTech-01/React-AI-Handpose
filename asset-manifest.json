@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MohammedTech-01/React-AI-Handpose.git/static/css/main.f855e6bc.css",
-    "main.js": "/MohammedTech-01/React-AI-Handpose.git/static/js/main.d3ce31f6.js",
-    "static/js/453.6e55fb71.chunk.js": "/MohammedTech-01/React-AI-Handpose.git/static/js/453.6e55fb71.chunk.js",
-    "index.html": "/MohammedTech-01/React-AI-Handpose.git/index.html",
-    "main.f855e6bc.css.map": "/MohammedTech-01/React-AI-Handpose.git/static/css/main.f855e6bc.css.map",
-    "main.d3ce31f6.js.map": "/MohammedTech-01/React-AI-Handpose.git/static/js/main.d3ce31f6.js.map",
-    "453.6e55fb71.chunk.js.map": "/MohammedTech-01/React-AI-Handpose.git/static/js/453.6e55fb71.chunk.js.map"
+    "main.css": "/React-AI-Handpose/static/css/main.f855e6bc.css",
+    "main.js": "/React-AI-Handpose/static/js/main.1f561bda.js",
+    "static/js/453.6e55fb71.chunk.js": "/React-AI-Handpose/static/js/453.6e55fb71.chunk.js",
+    "index.html": "/React-AI-Handpose/index.html",
+    "main.f855e6bc.css.map": "/React-AI-Handpose/static/css/main.f855e6bc.css.map",
+    "main.1f561bda.js.map": "/React-AI-Handpose/static/js/main.1f561bda.js.map",
+    "453.6e55fb71.chunk.js.map": "/React-AI-Handpose/static/js/453.6e55fb71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.d3ce31f6.js"
+    "static/js/main.1f561bda.js"
   ]
 }
