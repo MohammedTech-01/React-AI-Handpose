@@ -1,6 +1,7 @@
 // Importing necessary modules and hooks from React, TensorFlow, and additional libraries
 import React, { useRef } from "react"; // React and the useRef hook for accessing DOM elements
 // Importing TensorFlow and the handpose model from TensorFlow Models
+import * as tf from "@tensorflow/tfjs";
 import * as handpose from "@tensorflow-models/handpose";
 import Webcam from "react-webcam"; // Webcam component for capturing video input
 import "./App.css"; // Importing stylesheet for the application
