@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React-AI-Handpose/static/css/main.f855e6bc.css",
-    "main.js": "/React-AI-Handpose/static/js/main.1f561bda.js",
+    "main.js": "/React-AI-Handpose/static/js/main.d0db888a.js",
     "static/js/453.6e55fb71.chunk.js": "/React-AI-Handpose/static/js/453.6e55fb71.chunk.js",
     "index.html": "/React-AI-Handpose/index.html",
     "main.f855e6bc.css.map": "/React-AI-Handpose/static/css/main.f855e6bc.css.map",
-    "main.1f561bda.js.map": "/React-AI-Handpose/static/js/main.1f561bda.js.map",
+    "main.d0db888a.js.map": "/React-AI-Handpose/static/js/main.d0db888a.js.map",
     "453.6e55fb71.chunk.js.map": "/React-AI-Handpose/static/js/453.6e55fb71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.1f561bda.js"
+    "static/js/main.d0db888a.js"
   ]
 }
